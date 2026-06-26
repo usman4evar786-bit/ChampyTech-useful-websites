@@ -551,6 +551,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 ### Calculators
 
 - [Calculator.net](https://calculator.net): Comprehensive collection of online calculators for math, finance, and science
+- [Jisuanqi 3000](https://jsq3000.com): China-localized calculator collection for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, body fat, and more
 - [RapidTables Calculator](https://www.rapidtables.com/calc): Wide variety of calculators including conversion, math, and engineering tools
 - [MathPapa](https://www.mathpapa.com): Algebra calculator with step-by-step solutions for equations and graphing
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator): Advanced online graphing calculator with function plotting and analysis
