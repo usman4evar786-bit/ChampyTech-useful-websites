@@ -111,6 +111,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [Flagpedia](https://flagpedia.net/index): Comprehensive database of world flags with country information and details
 - [GeoTips](https://geotips.net): Educational resource with geography tips for location identification games
 - [Flag Guesser](https://flagguesser.com): Interactive quiz game for testing knowledge of world flags
+- [Custom Spinner Wheel](https://customspinnerwheel.com/): Free online spinner wheel and random picker — custom wheels, team generator, and decision maker with no signup required
 
 ### Wallpapers
 
